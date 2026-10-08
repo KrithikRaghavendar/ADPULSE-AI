@@ -7,3 +7,9 @@ venv/
 .streamlit/secrets.toml
 .vscode/
 .DS_Store
+
+# Runtime state (approval logs) and local backups
+actions.json
+**/actions.json
+app_original_backup.py
+static/

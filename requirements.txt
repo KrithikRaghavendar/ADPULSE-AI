@@ -1,0 +1,7 @@
+# ADPULSE AI — local only, no cloud services or external APIs
+streamlit>=1.50
+pandas>=2.2
+altair>=5
+scikit-learn>=1.5
+joblib>=1.4
+numpy>=1.26

@@ -1,0 +1,442 @@
+Day,Campaign name,Ad set name,Format,Amount spent (INR),Impressions,Link clicks,Purchases,Purchases conversion value
+2026-09-01,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Image,885.13,8672,367,12,4494.24
+2026-09-02,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Image,973.21,7502,309,9,4016.59
+2026-09-03,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Influencer Video,922.29,7367,299,8,3090.38
+2026-09-04,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Video,789.02,6734,243,7,3376.18
+2026-09-05,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Video,922.74,5951,238,10,4951.6
+2026-09-06,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Image,1061.87,8614,352,14,5896.49
+2026-09-07,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Video,1249.79,9574,345,10,3757.96
+2026-09-08,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Influencer Video,1160.4,8783,316,12,4654.15
+2026-09-09,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Video,1056.28,7590,303,11,4395.1
+2026-09-10,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Video,1100.05,8312,314,7,2525.62
+2026-09-11,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Image,1116.06,6328,235,8,2951.45
+2026-09-12,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Image,855.02,8814,366,10,4227.56
+2026-09-13,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Influencer Video,994.89,9130,334,6,2419.63
+2026-09-14,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Image,944.55,7299,306,12,4897.46
+2026-09-15,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Image,928.35,6228,223,5,1833.43
+2026-09-16,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Video,1303.4,8596,336,9,3505.81
+2026-09-17,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Influencer Video,895.0,8106,319,9,3337.24
+2026-09-18,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Video,968.23,5165,207,5,1772.32
+2026-09-19,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Carousel,1179.06,7430,336,14,5476.94
+2026-09-20,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Image,1119.52,7190,230,5,1806.44
+2026-09-21,GR | Body Lotion 200 ml | Prospecting,Body Lotion 200 ml - Broad,Video,717.04,6945,240,7,3465.66
+2026-09-01,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Video,393.15,15224,412,9,5782.96
+2026-09-02,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Image,649.5,8734,225,3,1633.16
+2026-09-03,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Image,581.54,10036,307,6,3931.13
+2026-09-04,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Image,634.36,7287,211,5,3792.12
+2026-09-05,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Influencer Video,558.09,12793,442,10,6619.52
+2026-09-06,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Influencer Video,618.09,8804,258,8,5005.69
+2026-09-07,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Video,627.06,9449,271,7,5002.0
+2026-09-08,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Video,646.47,8778,254,4,2761.51
+2026-09-09,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Carousel,649.78,11226,317,9,5637.88
+2026-09-10,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Image,628.2,11233,351,8,4578.49
+2026-09-11,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Image,769.56,7777,215,5,2992.01
+2026-09-12,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Carousel,720.23,14236,490,8,4990.67
+2026-09-13,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Carousel,770.33,11121,327,8,5813.59
+2026-09-14,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Video,563.47,9504,262,8,5170.61
+2026-09-15,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Image,587.67,11046,252,7,4267.98
+2026-09-16,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Video,690.46,11260,363,9,6195.12
+2026-09-17,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Video,713.25,14802,380,8,5941.01
+2026-09-18,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Carousel,732.75,6970,199,4,2342.59
+2026-09-19,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Video,613.11,18460,596,16,11985.92
+2026-09-20,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Video,570.94,9379,265,7,4288.78
+2026-09-21,GR | Body Lotion 400 ml | Prospecting,Body Lotion 400 ml - Broad,Carousel,685.44,11683,365,12,7796.86
+2026-09-01,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Video,782.52,8589,458,15,13727.51
+2026-09-02,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Video,927.2,11596,638,30,20610.01
+2026-09-03,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Influencer Video,715.55,12159,649,21,15630.95
+2026-09-04,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Video,976.58,11677,678,19,12824.44
+2026-09-05,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Influencer Video,949.18,18546,928,36,26702.95
+2026-09-06,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Image,838.74,15071,701,32,20436.85
+2026-09-07,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Influencer Video,765.16,13169,699,25,17315.7
+2026-09-08,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Image,744.05,13822,678,26,16479.43
+2026-09-09,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Carousel,1036.23,9582,448,19,12838.94
+2026-09-10,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Influencer Video,867.87,9738,539,20,13774.42
+2026-09-11,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Image,816.67,12796,705,25,16106.16
+2026-09-12,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Video,794.17,11153,570,26,16715.84
+2026-09-13,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Influencer Video,786.87,13685,569,23,15180.92
+2026-09-14,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Influencer Video,881.85,9168,432,14,12590.99
+2026-09-15,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Video,855.31,14867,723,31,20929.89
+2026-09-16,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Image,839.13,9701,493,22,15220.67
+2026-09-17,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Influencer Video,642.84,14327,782,22,14736.39
+2026-09-18,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Carousel,823.82,12460,737,22,13933.54
+2026-09-19,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Image,844.42,14964,989,28,18467.95
+2026-09-20,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Video,1034.69,12270,706,35,26132.69
+2026-09-21,GR | Glow Combo Full (30ml + 150ml) | Prospecting,Glow Combo Full (30ml + 150ml) - Broad,Influencer Video,900.55,10007,613,21,19980.62
+2026-09-01,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Image,931.41,11372,353,9,4749.31
+2026-09-02,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Carousel,1025.11,12336,437,7,3252.14
+2026-09-03,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Influencer Video,837.5,8712,309,7,4061.02
+2026-09-04,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,735.4,11050,334,9,4640.69
+2026-09-05,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Image,869.75,12433,434,13,7502.43
+2026-09-06,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,1094.91,14616,440,13,6246.03
+2026-09-07,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Carousel,954.24,10369,277,8,4786.19
+2026-09-08,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,1049.54,7951,264,7,3126.07
+2026-09-09,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Image,864.62,5751,173,6,2933.78
+2026-09-10,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,1031.62,9823,334,11,5068.99
+2026-09-11,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,807.63,11615,403,11,5023.39
+2026-09-12,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,1044.67,17255,484,10,4941.54
+2026-09-13,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,911.58,10540,370,12,5214.68
+2026-09-14,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Image,881.78,8765,301,9,4572.86
+2026-09-15,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Carousel,996.95,13130,354,8,5587.84
+2026-09-16,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Image,812.18,8343,256,5,2368.79
+2026-09-17,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Image,867.8,13220,413,13,6097.45
+2026-09-18,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,916.84,12547,440,12,5158.13
+2026-09-19,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Image,780.64,11774,368,8,3702.19
+2026-09-20,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Influencer Video,751.37,7204,235,7,3687.75
+2026-09-21,GR | Glow Combo Starter (15ml + 100ml) | Prospecting,Glow Combo Starter (15ml + 100ml) - Broad,Video,865.74,9089,288,8,3926.81
+2026-09-01,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Influencer Video,1125.46,8581,521,27,6512.06
+2026-09-02,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Image,1320.16,18971,790,30,6085.28
+2026-09-03,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Video,1071.88,13047,769,45,10140.78
+2026-09-04,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Influencer Video,1107.59,19686,1172,62,12464.73
+2026-09-05,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Video,1116.21,12730,684,34,6320.63
+2026-09-06,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Image,1047.28,15151,733,42,9269.75
+2026-09-07,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Video,1158.69,13785,745,44,9513.8
+2026-09-08,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Image,1361.51,15015,790,21,5324.39
+2026-09-09,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Carousel,1234.61,14471,769,28,6301.81
+2026-09-10,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Video,1173.26,13096,829,45,9377.63
+2026-09-11,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Image,1095.88,18502,986,41,7869.87
+2026-09-12,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Video,1363.97,16914,916,32,7709.72
+2026-09-13,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Image,1283.55,16711,730,43,8517.3
+2026-09-14,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Carousel,1300.23,14724,748,42,8067.52
+2026-09-15,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Influencer Video,1343.12,12945,597,36,6939.23
+2026-09-16,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Influencer Video,1335.22,21573,1125,27,5111.69
+2026-09-17,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Image,962.45,15521,875,25,5114.06
+2026-09-18,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Image,1112.66,9522,560,22,4051.3
+2026-09-19,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Image,962.94,15858,756,22,4598.2
+2026-09-20,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Video,1321.76,10801,623,25,4597.48
+2026-09-21,GR | Ubtan Face Wash 100 ml | Prospecting,Ubtan Face Wash 100 ml - Broad,Carousel,1344.06,12988,672,20,5253.51
+2026-09-01,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Image,394.92,13604,555,25,6938.13
+2026-09-02,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,403.55,11704,582,25,6510.88
+2026-09-03,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,314.54,13536,682,31,8106.69
+2026-09-04,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Image,368.56,11896,555,29,7849.0
+2026-09-05,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Influencer Video,404.62,13002,606,22,8229.38
+2026-09-06,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Image,337.05,9788,504,18,5020.48
+2026-09-07,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,342.91,12792,657,30,8467.23
+2026-09-08,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,477.99,8989,405,14,5185.29
+2026-09-09,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Carousel,474.26,13503,681,10,5689.09
+2026-09-10,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,399.76,14017,693,38,10096.18
+2026-09-11,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Influencer Video,372.3,7175,382,18,4991.38
+2026-09-12,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,375.12,12605,639,25,8224.12
+2026-09-13,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Image,440.7,15511,783,36,10925.45
+2026-09-14,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,388.6,8163,396,11,2928.53
+2026-09-15,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,404.76,12515,530,23,6504.02
+2026-09-16,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Image,373.57,13147,627,19,5033.31
+2026-09-17,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Influencer Video,390.86,16639,906,23,6149.68
+2026-09-18,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Influencer Video,495.8,8994,419,11,3651.57
+2026-09-19,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Image,502.78,13880,673,25,6743.06
+2026-09-20,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Video,351.51,15196,788,32,8971.81
+2026-09-21,GR | Ubtan Face Wash 150 ml | Prospecting,Ubtan Face Wash 150 ml - Broad,Carousel,372.6,10490,530,18,4903.37
+2026-09-01,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,540.31,14727,609,26,8112.72
+2026-09-02,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,467.49,9934,451,21,6848.34
+2026-09-03,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,533.09,14705,678,29,10197.6
+2026-09-04,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,600.62,13130,555,9,3500.04
+2026-09-05,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Image,462.6,16466,655,29,8944.38
+2026-09-06,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Carousel,492.04,15351,588,18,5935.19
+2026-09-07,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,449.46,11566,502,24,7327.04
+2026-09-08,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,471.37,15860,802,25,7939.46
+2026-09-09,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Image,490.91,16653,867,33,11382.83
+2026-09-10,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Influencer Video,529.07,13295,498,21,8074.68
+2026-09-11,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Image,415.15,10724,384,15,4612.68
+2026-09-12,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Carousel,443.69,19769,717,26,8493.62
+2026-09-13,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Influencer Video,452.15,15613,637,29,8787.53
+2026-09-14,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Influencer Video,596.52,14863,582,25,7489.59
+2026-09-15,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Image,505.04,11308,482,15,5703.06
+2026-09-16,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,306.47,11865,492,17,5174.5
+2026-09-17,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,563.8,12118,522,22,6885.64
+2026-09-18,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Image,507.91,14671,623,20,6316.67
+2026-09-19,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,417.61,9691,354,19,5755.33
+2026-09-20,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Video,428.11,12282,543,26,7801.81
+2026-09-21,GR | Onion Hair Oil 150 ml | Prospecting,Onion Hair Oil 150 ml - Broad,Influencer Video,492.59,13710,488,14,4358.25
+2026-09-01,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Influencer Video,679.91,7120,235,12,7479.07
+2026-09-02,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Video,637.55,12434,459,22,10633.21
+2026-09-03,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Video,771.72,9762,333,13,7235.68
+2026-09-04,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Influencer Video,772.88,7384,262,11,5829.32
+2026-09-05,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Image,808.16,8827,283,8,4174.11
+2026-09-06,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Image,875.14,11034,388,11,4768.94
+2026-09-07,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Carousel,848.45,11535,437,20,11224.55
+2026-09-08,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Influencer Video,884.66,6001,214,7,3408.24
+2026-09-09,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Influencer Video,773.94,9386,315,15,7833.17
+2026-09-10,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Video,849.08,10101,287,17,7609.25
+2026-09-11,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Video,850.73,7128,235,8,4078.28
+2026-09-12,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Image,797.35,9116,317,16,7235.11
+2026-09-13,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Image,802.22,10354,356,21,12056.64
+2026-09-14,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Influencer Video,651.25,9074,347,16,7294.74
+2026-09-15,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Influencer Video,876.61,13156,484,26,12272.07
+2026-09-16,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Image,652.3,8165,285,12,5563.48
+2026-09-17,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Video,891.35,9977,305,17,7521.62
+2026-09-18,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Video,758.48,10050,330,13,7765.12
+2026-09-19,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Video,714.43,9747,387,8,4189.07
+2026-09-20,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Video,687.08,8895,326,14,7744.99
+2026-09-21,GR | Onion Hair Oil 250 ml | Prospecting,Onion Hair Oil 250 ml - Broad,Image,648.95,12692,435,23,12084.51
+2026-09-01,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Influencer Video,803.65,12844,619,26,4086.59
+2026-09-02,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Influencer Video,1030.2,10139,528,22,3325.83
+2026-09-03,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Influencer Video,801.92,15644,740,29,5230.8
+2026-09-04,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Video,913.93,14748,837,27,4334.08
+2026-09-05,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Influencer Video,942.72,19479,1005,39,6231.72
+2026-09-06,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Image,1027.15,21273,903,26,4134.71
+2026-09-07,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Carousel,1005.18,10711,632,28,4458.01
+2026-09-08,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Video,953.69,16068,829,35,5592.01
+2026-09-09,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Influencer Video,1025.3,18902,793,30,4894.79
+2026-09-10,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Image,949.34,16681,650,25,4102.41
+2026-09-11,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Influencer Video,992.0,17898,899,34,5133.27
+2026-09-12,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Image,1084.94,20789,909,28,4413.96
+2026-09-13,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Influencer Video,860.73,25448,1210,48,8086.0
+2026-09-14,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Video,835.13,12542,462,19,3577.95
+2026-09-15,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Video,856.12,10754,479,16,2822.48
+2026-09-16,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Influencer Video,1043.95,16140,808,26,4212.97
+2026-09-17,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Carousel,914.99,13548,866,38,7639.02
+2026-09-18,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Image,785.48,17605,918,18,4095.76
+2026-09-19,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Video,895.36,19936,1137,38,7176.13
+2026-09-20,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Video,910.88,17837,775,35,5508.49
+2026-09-21,GR | Lip Balm Cherry | Prospecting,Lip Balm Cherry - Broad,Carousel,727.51,20612,1018,38,6085.13
+2026-09-01,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Image,1290.26,13236,519,25,3758.57
+2026-09-02,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Influencer Video,1522.96,10754,447,24,3751.07
+2026-09-03,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Video,1299.01,17828,709,27,5164.14
+2026-09-04,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Influencer Video,1545.41,15752,574,21,3549.65
+2026-09-05,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Carousel,1377.34,13654,597,35,5098.98
+2026-09-06,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Video,1331.29,15819,701,25,3767.83
+2026-09-07,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Image,1556.3,16088,765,27,4281.08
+2026-09-08,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Image,1298.85,18098,938,37,5436.99
+2026-09-09,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Video,1698.07,15112,639,31,5019.84
+2026-09-10,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Image,1621.15,14308,720,24,4800.3
+2026-09-11,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Video,1428.37,13615,630,27,4173.79
+2026-09-12,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Image,1262.13,16788,731,32,4703.88
+2026-09-13,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Video,1466.24,13547,542,24,4597.93
+2026-09-14,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Image,1452.17,12108,527,22,3660.46
+2026-09-15,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Video,1281.79,25521,945,41,6593.5
+2026-09-16,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Image,1648.37,12085,485,22,3373.85
+2026-09-17,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Carousel,1320.13,21418,879,33,4919.06
+2026-09-18,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Video,1394.53,14689,624,31,5581.1
+2026-09-19,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Carousel,1415.15,22078,883,37,6245.8
+2026-09-20,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Video,1807.49,16393,799,32,6024.67
+2026-09-21,GR | Lip Balm Natural | Prospecting,Lip Balm Natural - Broad,Influencer Video,1530.76,17390,740,21,3195.59
+2026-09-01,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Video,853.33,14966,544,24,3830.76
+2026-09-02,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Image,745.35,12426,360,10,1818.16
+2026-09-03,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Carousel,699.2,16665,506,12,1863.33
+2026-09-04,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Video,951.15,15597,494,14,2031.35
+2026-09-05,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Image,795.46,17890,517,21,3295.54
+2026-09-06,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Video,803.19,18278,456,19,3164.56
+2026-09-07,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Carousel,968.56,21057,670,21,3902.28
+2026-09-08,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Video,882.53,15655,424,20,3620.99
+2026-09-09,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Video,928.89,16615,591,22,3674.59
+2026-09-10,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Video,952.89,16487,410,6,1201.86
+2026-09-11,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Influencer Video,995.56,11621,289,15,2373.74
+2026-09-12,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Influencer Video,768.07,19092,556,24,3681.71
+2026-09-13,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Carousel,808.12,20573,637,13,2308.73
+2026-09-14,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Video,913.31,17781,496,21,3423.1
+2026-09-15,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Image,842.57,18295,474,15,2901.95
+2026-09-16,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Influencer Video,895.41,15863,433,18,3444.25
+2026-09-17,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Carousel,565.69,17437,401,14,2039.58
+2026-09-18,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Image,828.91,18673,501,12,1920.48
+2026-09-19,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Video,1065.0,18913,679,19,2987.78
+2026-09-20,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Carousel,798.41,21470,536,24,4300.22
+2026-09-21,GR | Lip Balm Strawberry | Prospecting,Lip Balm Strawberry - Broad,Influencer Video,805.81,20257,587,25,3729.07
+2026-09-01,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Image,1501.68,5553,214,6,3906.73
+2026-09-02,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Video,1510.63,17210,675,21,11285.29
+2026-09-03,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Carousel,1269.72,10981,375,9,4417.69
+2026-09-04,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Image,1437.09,9942,399,14,8230.83
+2026-09-05,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Image,1495.2,10362,430,15,6993.8
+2026-09-06,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Video,1154.21,11735,393,13,6646.61
+2026-09-07,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Video,1423.06,10307,321,10,4780.68
+2026-09-08,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Video,1432.81,14064,567,18,8640.61
+2026-09-09,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Video,1229.41,11626,399,10,5479.91
+2026-09-10,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Influencer Video,1269.44,8816,329,11,5725.03
+2026-09-11,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Image,1376.63,10692,375,13,6122.37
+2026-09-12,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Image,1344.75,13465,499,16,7743.21
+2026-09-13,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Image,1336.94,17984,607,22,11226.66
+2026-09-14,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Influencer Video,1204.7,10578,405,8,4345.22
+2026-09-15,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Video,1431.15,13517,521,15,8830.78
+2026-09-16,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Influencer Video,1333.45,9987,395,15,7670.58
+2026-09-17,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Video,1451.7,19415,794,20,14054.34
+2026-09-18,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Video,1524.08,13207,510,16,8875.1
+2026-09-19,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Image,1347.86,14260,548,16,8170.6
+2026-09-20,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Carousel,1363.39,12903,430,13,8247.45
+2026-09-21,GR | Aloe Moisturizer 100 g | Prospecting,Aloe Moisturizer 100 g - Broad,Influencer Video,1456.87,9450,301,5,3023.53
+2026-09-01,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Image,1333.91,13257,652,35,10658.74
+2026-09-02,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Carousel,1138.96,7770,375,17,5209.47
+2026-09-03,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Influencer Video,1237.64,8733,339,12,4845.83
+2026-09-04,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Image,1518.29,7883,353,11,3509.68
+2026-09-05,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Influencer Video,1557.47,8164,380,15,4619.2
+2026-09-06,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Video,1442.64,17006,738,30,9108.04
+2026-09-07,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Carousel,1273.6,7833,358,16,5833.49
+2026-09-08,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Video,1315.3,10562,482,23,6655.11
+2026-09-09,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Influencer Video,1486.13,11066,501,14,4114.68
+2026-09-10,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Influencer Video,1395.69,13477,641,30,9167.84
+2026-09-11,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Influencer Video,1464.92,8995,425,8,2440.36
+2026-09-12,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Carousel,1498.77,10189,495,21,7291.29
+2026-09-13,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Image,1127.68,15694,714,29,9983.62
+2026-09-14,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Video,1331.14,12043,534,29,9326.94
+2026-09-15,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Video,1229.68,12530,643,22,7994.37
+2026-09-16,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Carousel,1484.89,11161,477,15,4608.1
+2026-09-17,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Video,1232.1,7313,302,15,4763.76
+2026-09-18,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Carousel,1468.43,14198,644,25,9336.01
+2026-09-19,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Influencer Video,1575.28,8592,365,15,5356.0
+2026-09-20,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Image,1306.1,13558,592,20,7494.98
+2026-09-21,GR | Aloe Moisturizer 50 g | Prospecting,Aloe Moisturizer 50 g - Broad,Carousel,1299.3,8435,316,14,4472.82
+2026-09-01,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Video,841.83,12035,394,16,8780.14
+2026-09-02,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,886.67,8237,329,5,3666.24
+2026-09-03,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Video,922.02,5959,217,5,2987.06
+2026-09-04,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Influencer Video,863.64,7177,200,7,3539.36
+2026-09-05,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Influencer Video,1056.19,7911,259,7,4318.35
+2026-09-06,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,1024.24,9006,323,8,5917.76
+2026-09-07,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Influencer Video,872.31,6097,219,8,5109.5
+2026-09-08,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Carousel,1036.06,9303,272,11,6248.69
+2026-09-09,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Video,863.9,9178,317,10,5542.41
+2026-09-10,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,864.11,7412,294,9,7070.92
+2026-09-11,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,833.21,5513,199,5,3209.26
+2026-09-12,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,923.93,11143,351,9,4942.61
+2026-09-13,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,998.37,10914,348,9,4957.08
+2026-09-14,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,668.18,8464,262,8,4427.69
+2026-09-15,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,964.03,7313,221,8,4149.32
+2026-09-16,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Influencer Video,826.93,6906,195,5,2827.64
+2026-09-17,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,740.59,7681,210,8,4826.45
+2026-09-18,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Video,925.12,9564,334,13,7007.36
+2026-09-19,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Image,979.85,6352,218,8,4303.06
+2026-09-20,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Influencer Video,653.22,8143,272,5,2797.67
+2026-09-21,GR | Retinol Serum 15 ml | Prospecting,Retinol Serum 15 ml - Broad,Carousel,695.38,9502,344,13,7672.31
+2026-09-01,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Video,1011.17,14056,740,19,15882.71
+2026-09-02,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Video,948.03,12890,751,15,16834.96
+2026-09-03,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Influencer Video,1065.56,10723,560,12,10596.36
+2026-09-04,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Video,1131.45,18120,871,24,20976.69
+2026-09-05,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Video,1078.37,13454,677,21,18102.78
+2026-09-06,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Carousel,984.91,13708,691,15,11963.16
+2026-09-07,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Image,1044.65,8160,384,9,7123.27
+2026-09-08,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Influencer Video,1037.59,8444,409,13,10683.54
+2026-09-09,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Video,1180.47,13566,537,15,12824.05
+2026-09-10,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Image,904.36,13188,641,19,22249.92
+2026-09-11,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Video,1161.43,13262,771,17,21129.34
+2026-09-12,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Influencer Video,1091.94,9197,450,13,11127.94
+2026-09-13,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Carousel,1099.94,13613,553,17,14165.11
+2026-09-14,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Video,1100.74,13897,655,17,16163.72
+2026-09-15,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Image,1057.0,13860,776,23,18585.29
+2026-09-16,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Influencer Video,1069.96,12825,567,15,15742.7
+2026-09-17,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Influencer Video,916.94,11460,621,11,10898.84
+2026-09-18,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Image,902.67,9433,453,15,13068.12
+2026-09-19,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Influencer Video,919.01,15887,794,21,17276.0
+2026-09-20,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Image,922.73,13201,536,13,10756.58
+2026-09-21,GR | Retinol Serum 30 ml | Prospecting,Retinol Serum 30 ml - Broad,Influencer Video,972.42,14668,587,19,17448.79
+2026-09-01,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,1171.46,11136,325,9,2380.04
+2026-09-02,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Video,991.0,11827,386,10,2621.0
+2026-09-03,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,1001.44,9859,388,9,2922.39
+2026-09-04,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Carousel,879.07,9986,344,8,2085.54
+2026-09-05,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,941.05,8187,271,9,2371.3
+2026-09-06,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Video,905.77,9990,316,7,2185.72
+2026-09-07,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,934.89,11339,385,6,1981.17
+2026-09-08,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Influencer Video,1091.65,12090,410,7,2106.48
+2026-09-09,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Influencer Video,1005.66,8089,241,6,1588.53
+2026-09-10,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Carousel,1054.05,8099,296,7,2106.44
+2026-09-11,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,860.69,10147,331,9,2353.95
+2026-09-12,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,832.57,10511,319,9,3385.25
+2026-09-13,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Video,1168.77,9654,332,8,2156.23
+2026-09-14,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,883.34,2968,97,3,770.24
+2026-09-15,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,930.65,8537,247,7,2311.52
+2026-09-16,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Influencer Video,1061.72,7076,253,5,2002.08
+2026-09-17,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Influencer Video,946.63,14359,486,15,3907.25
+2026-09-18,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,963.11,12450,476,13,3727.36
+2026-09-19,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Video,994.86,10056,338,9,2302.66
+2026-09-20,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Carousel,1164.55,8596,318,7,2216.46
+2026-09-21,GR | Onion Shampoo 250 ml | Prospecting,Onion Shampoo 250 ml - Broad,Image,945.41,7404,260,5,1225.16
+2026-09-01,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Image,966.79,7489,226,4,2147.08
+2026-09-02,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Influencer Video,723.64,9431,232,6,2124.02
+2026-09-03,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Video,889.97,7325,189,8,3423.17
+2026-09-04,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Video,691.84,9570,246,8,3901.98
+2026-09-05,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Video,1058.09,9272,251,10,4194.89
+2026-09-06,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Carousel,997.32,6233,139,3,1260.63
+2026-09-07,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Image,1039.5,13763,311,12,4722.41
+2026-09-08,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Image,1161.04,8604,240,7,2523.93
+2026-09-09,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Image,640.24,6693,208,7,3573.31
+2026-09-10,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Influencer Video,897.0,6519,194,4,2062.08
+2026-09-11,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Image,1017.35,6394,142,6,2369.74
+2026-09-12,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Influencer Video,791.06,7405,199,8,3187.95
+2026-09-13,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Video,803.29,7553,201,6,2434.36
+2026-09-14,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Image,1091.67,6919,232,8,2998.94
+2026-09-15,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Video,1067.94,7353,240,10,3935.43
+2026-09-16,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Video,838.85,7445,211,8,4193.66
+2026-09-17,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Influencer Video,1222.28,8114,246,7,2788.19
+2026-09-18,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Video,1028.11,9878,276,10,3583.09
+2026-09-19,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Video,882.98,8555,284,13,4812.82
+2026-09-20,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Influencer Video,986.61,8426,254,4,1700.89
+2026-09-21,GR | Onion Shampoo 400 ml | Prospecting,Onion Shampoo 400 ml - Broad,Image,918.06,8913,219,8,3081.0
+2026-09-01,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Influencer Video,820.02,8784,368,8,4879.41
+2026-09-02,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Influencer Video,867.54,11394,564,16,11138.14
+2026-09-03,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Influencer Video,832.86,5062,210,4,2380.56
+2026-09-04,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Image,1023.25,10488,513,15,8697.8
+2026-09-05,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,981.55,8509,409,10,7214.04
+2026-09-06,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,954.48,9297,431,10,7447.49
+2026-09-07,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Influencer Video,1176.77,7920,346,9,4993.86
+2026-09-08,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Image,932.39,8658,377,6,4602.93
+2026-09-09,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Image,957.46,10130,462,13,9446.56
+2026-09-10,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Image,974.01,11983,505,12,9474.56
+2026-09-11,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Image,802.46,13027,563,14,10619.4
+2026-09-12,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Influencer Video,967.05,14487,607,13,7815.95
+2026-09-13,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,858.74,8720,452,12,6774.93
+2026-09-14,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,917.68,11847,481,12,6791.97
+2026-09-15,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,984.66,11997,577,12,8407.3
+2026-09-16,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Image,877.24,10575,544,12,7050.75
+2026-09-17,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Carousel,793.24,13509,588,12,6534.4
+2026-09-18,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,1068.81,12759,660,12,6637.38
+2026-09-19,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,983.82,14317,647,15,8800.55
+2026-09-20,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,1035.43,8941,435,11,6214.85
+2026-09-21,GR | Sunscreen SPF 50 100 g | Prospecting,Sunscreen SPF 50 100 g - Broad,Video,968.53,13053,647,18,10423.47
+2026-09-01,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Influencer Video,1104.02,11344,467,6,3203.39
+2026-09-02,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Image,1085.17,14834,455,19,6637.7
+2026-09-03,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Carousel,830.65,14323,408,7,2596.36
+2026-09-04,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Video,1136.24,11959,372,6,2144.22
+2026-09-05,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Image,933.49,16357,613,14,4585.97
+2026-09-06,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Influencer Video,1207.59,14619,652,15,5585.49
+2026-09-07,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Video,964.73,11740,449,14,6744.91
+2026-09-08,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Carousel,1080.61,9413,394,11,5277.6
+2026-09-09,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Image,879.21,9092,348,11,4878.93
+2026-09-10,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Video,1194.53,13605,412,11,3868.31
+2026-09-11,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Video,943.74,14874,550,10,5138.91
+2026-09-12,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Image,1107.09,11363,443,17,5743.66
+2026-09-13,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Influencer Video,990.1,9969,321,8,3644.14
+2026-09-14,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Image,866.14,13386,568,17,5751.12
+2026-09-15,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Video,1000.9,10348,346,12,4988.36
+2026-09-16,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Influencer Video,928.38,8952,377,14,5085.37
+2026-09-17,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Video,1187.05,16458,674,18,7036.36
+2026-09-18,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Influencer Video,1056.06,10382,344,8,2911.89
+2026-09-19,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Influencer Video,1079.62,8443,269,9,3375.71
+2026-09-20,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Influencer Video,976.7,16102,630,14,5131.98
+2026-09-21,GR | Sunscreen SPF 50 50 g | Prospecting,Sunscreen SPF 50 50 g - Broad,Influencer Video,1011.21,11966,414,20,7452.03
+2026-09-01,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Carousel,1721.81,20271,1064,50,16180.92
+2026-09-02,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Video,1868.86,19190,1049,30,10641.22
+2026-09-03,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Carousel,1875.19,19563,1012,36,11018.02
+2026-09-04,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Influencer Video,1699.97,11715,621,17,5812.66
+2026-09-05,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Video,1664.98,27051,1033,39,11652.43
+2026-09-06,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Carousel,1767.39,9985,549,23,7422.12
+2026-09-07,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Image,1937.1,18156,796,43,14353.21
+2026-09-08,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Video,1931.8,14987,770,26,8199.51
+2026-09-09,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Carousel,2333.23,17515,911,48,15600.43
+2026-09-10,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Video,1992.46,18134,806,34,12854.65
+2026-09-11,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Influencer Video,1547.36,16151,625,22,8433.85
+2026-09-12,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Video,1820.22,15792,930,35,10919.53
+2026-09-13,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Video,1455.02,16858,659,20,6349.73
+2026-09-14,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Influencer Video,1719.09,21242,937,42,14534.53
+2026-09-15,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Image,2006.73,12884,578,16,5412.06
+2026-09-16,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Video,1785.12,13791,667,22,7428.91
+2026-09-17,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Image,1947.53,19738,892,27,8602.41
+2026-09-18,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Influencer Video,1585.26,16762,667,24,7667.02
+2026-09-19,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Influencer Video,1980.73,12535,600,26,8665.27
+2026-09-20,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Image,1922.45,19578,836,40,12812.11
+2026-09-21,GR | Vitamin C Serum 15 ml | Prospecting,Vitamin C Serum 15 ml - Broad,Influencer Video,1756.67,18135,850,27,8462.78
+2026-09-01,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Carousel,386.9,10255,338,12,6563.04
+2026-09-02,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Video,420.14,8706,284,14,6244.11
+2026-09-03,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Image,390.67,11319,351,16,7433.27
+2026-09-04,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Video,416.53,9819,293,13,6745.46
+2026-09-05,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Video,356.98,10786,390,14,6628.62
+2026-09-06,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Influencer Video,447.8,11337,401,14,8286.77
+2026-09-07,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Image,384.32,7801,294,3,1198.12
+2026-09-08,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Carousel,539.26,10301,343,14,6820.76
+2026-09-09,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Image,324.95,10188,354,15,8068.21
+2026-09-10,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Video,434.74,10910,313,14,7598.49
+2026-09-11,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Video,344.62,15107,515,20,8766.8
+2026-09-12,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Video,405.45,12108,350,11,4692.48
+2026-09-13,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Image,268.22,9933,352,11,5345.41
+2026-09-14,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Video,388.4,10945,380,18,8105.86
+2026-09-15,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Carousel,382.58,12994,448,9,4578.43
+2026-09-16,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Influencer Video,373.34,9473,291,10,4651.91
+2026-09-17,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Influencer Video,403.78,8545,306,8,4690.49
+2026-09-18,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Carousel,351.93,5118,141,4,2154.98
+2026-09-19,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Influencer Video,349.71,9456,297,12,6516.2
+2026-09-20,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Video,375.08,10058,362,10,7056.95
+2026-09-21,GR | Vitamin C Serum 30 ml | Prospecting,Vitamin C Serum 30 ml - Broad,Image,383.19,11436,362,15,8291.96

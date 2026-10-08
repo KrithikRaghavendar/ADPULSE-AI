@@ -1,0 +1,442 @@
+Day,Campaign,Cost,Impr.,Clicks,Conversions,Conv. value
+2026-09-01,GR Body Lotion 200 ml - Search,926.55,9078,384,11.2,4279.07
+2026-09-02,GR Body Lotion 200 ml - Search,1018.75,7853,323,8.8,3824.29
+2026-09-03,GR Body Lotion 200 ml - Search,965.43,7711,312,7.3,2942.42
+2026-09-04,GR Body Lotion 200 ml - Search,825.94,7049,255,6.8,3214.54
+2026-09-05,GR Body Lotion 200 ml - Search,965.92,6230,249,9.3,4714.53
+2026-09-06,GR Body Lotion 200 ml - Search,1111.54,9018,368,13.7,5614.18
+2026-09-07,GR Body Lotion 200 ml - Search,1308.27,10022,361,9.3,3578.04
+2026-09-08,GR Body Lotion 200 ml - Search,1214.68,9194,331,11.2,4431.33
+2026-09-09,GR Body Lotion 200 ml - Search,1105.7,7946,317,10.7,4184.68
+2026-09-10,GR Body Lotion 200 ml - Search,1151.52,8700,328,6.3,2404.7
+2026-09-11,GR Body Lotion 200 ml - Search,1168.27,6624,246,7.3,2810.14
+2026-09-12,GR Body Lotion 200 ml - Search,895.02,9227,383,9.3,4025.15
+2026-09-13,GR Body Lotion 200 ml - Search,1041.43,9557,349,5.9,2303.78
+2026-09-14,GR Body Lotion 200 ml - Search,988.75,7641,321,11.7,4662.99
+2026-09-15,GR Body Lotion 200 ml - Search,971.78,6520,234,4.4,1745.65
+2026-09-16,GR Body Lotion 200 ml - Search,1364.37,8999,351,8.3,3337.96
+2026-09-17,GR Body Lotion 200 ml - Search,936.88,8485,333,8.3,3177.46
+2026-09-18,GR Body Lotion 200 ml - Search,1013.52,5407,216,4.4,1687.47
+2026-09-19,GR Body Lotion 200 ml - Search,1234.23,7777,352,13.2,5214.72
+2026-09-20,GR Body Lotion 200 ml - Search,1171.9,7526,241,4.4,1719.96
+2026-09-21,GR Body Lotion 200 ml - Search,750.58,7269,251,6.8,3299.74
+2026-09-01,GR Body Lotion 400 ml - Search,230.46,8923,241,7.6,4688.83
+2026-09-02,GR Body Lotion 400 ml - Search,380.71,5119,132,2.2,1324.17
+2026-09-03,GR Body Lotion 400 ml - Search,340.88,5882,179,4.9,3187.37
+2026-09-04,GR Body Lotion 400 ml - Search,371.84,4271,124,4.0,3074.66
+2026-09-05,GR Body Lotion 400 ml - Search,327.14,7499,259,8.5,5367.11
+2026-09-06,GR Body Lotion 400 ml - Search,362.31,5161,151,6.3,4058.62
+2026-09-07,GR Body Lotion 400 ml - Search,367.56,5539,159,5.8,4055.63
+2026-09-08,GR Body Lotion 400 ml - Search,378.94,5145,148,3.6,2239.04
+2026-09-09,GR Body Lotion 400 ml - Search,380.88,6580,185,7.6,4571.2
+2026-09-10,GR Body Lotion 400 ml - Search,368.23,6584,205,6.3,3712.25
+2026-09-11,GR Body Lotion 400 ml - Search,451.1,4559,126,4.0,2425.92
+2026-09-12,GR Body Lotion 400 ml - Search,422.18,8344,287,6.3,4046.44
+2026-09-13,GR Body Lotion 400 ml - Search,451.54,6518,191,6.3,4713.67
+2026-09-14,GR Body Lotion 400 ml - Search,330.29,5570,154,6.3,4192.34
+2026-09-15,GR Body Lotion 400 ml - Search,344.47,6475,147,5.8,3460.49
+2026-09-16,GR Body Lotion 400 ml - Search,404.73,6600,213,7.6,5023.01
+2026-09-17,GR Body Lotion 400 ml - Search,418.09,8677,223,6.3,4816.98
+2026-09-18,GR Body Lotion 400 ml - Search,429.51,4086,116,3.1,1899.37
+2026-09-19,GR Body Lotion 400 ml - Search,359.38,10821,349,13.0,9718.2
+2026-09-20,GR Body Lotion 400 ml - Search,334.66,5498,155,5.4,3477.34
+2026-09-21,GR Body Lotion 400 ml - Search,401.79,6848,214,9.9,6321.71
+2026-09-01,GR Glow Combo Full (30ml + 150ml) - Search,800.31,8784,468,10.8,9732.45
+2026-09-02,GR Glow Combo Full (30ml + 150ml) - Search,948.29,11860,653,21.2,14611.97
+2026-09-03,GR Glow Combo Full (30ml + 150ml) - Search,731.83,12435,664,14.9,11081.94
+2026-09-04,GR Glow Combo Full (30ml + 150ml) - Search,998.8,11943,694,13.3,9092.2
+2026-09-05,GR Glow Combo Full (30ml + 150ml) - Search,970.77,18968,949,25.3,18931.71
+2026-09-06,GR Glow Combo Full (30ml + 150ml) - Search,857.81,15414,717,22.8,14489.21
+2026-09-07,GR Glow Combo Full (30ml + 150ml) - Search,782.57,13469,714,17.8,12276.39
+2026-09-08,GR Glow Combo Full (30ml + 150ml) - Search,760.98,14137,693,18.7,11683.49
+2026-09-09,GR Glow Combo Full (30ml + 150ml) - Search,1059.79,9800,459,13.7,9102.48
+2026-09-10,GR Glow Combo Full (30ml + 150ml) - Search,887.6,9960,551,14.1,9765.71
+2026-09-11,GR Glow Combo Full (30ml + 150ml) - Search,835.25,13087,722,17.8,11418.86
+2026-09-12,GR Glow Combo Full (30ml + 150ml) - Search,812.23,11407,582,18.7,11851.1
+2026-09-13,GR Glow Combo Full (30ml + 150ml) - Search,804.77,13997,582,16.2,10762.88
+2026-09-14,GR Glow Combo Full (30ml + 150ml) - Search,901.91,9377,441,10.0,8926.69
+2026-09-15,GR Glow Combo Full (30ml + 150ml) - Search,874.77,15206,740,22.0,14838.75
+2026-09-16,GR Glow Combo Full (30ml + 150ml) - Search,858.21,9922,505,15.8,10791.07
+2026-09-17,GR Glow Combo Full (30ml + 150ml) - Search,657.46,14652,799,15.8,10447.72
+2026-09-18,GR Glow Combo Full (30ml + 150ml) - Search,842.55,12743,754,15.3,9878.53
+2026-09-19,GR Glow Combo Full (30ml + 150ml) - Search,863.62,15305,1012,19.5,13093.31
+2026-09-20,GR Glow Combo Full (30ml + 150ml) - Search,1058.22,12549,722,24.5,18527.41
+2026-09-21,GR Glow Combo Full (30ml + 150ml) - Search,921.03,10235,627,14.9,14165.75
+2026-09-01,GR Glow Combo Starter (15ml + 100ml) - Search,1045.58,12767,397,12.8,6632.65
+2026-09-02,GR Glow Combo Starter (15ml + 100ml) - Search,1150.77,13849,491,9.9,4541.78
+2026-09-03,GR Glow Combo Starter (15ml + 100ml) - Search,940.16,9779,347,9.3,5671.42
+2026-09-04,GR Glow Combo Starter (15ml + 100ml) - Search,825.55,12404,376,12.2,6480.96
+2026-09-05,GR Glow Combo Starter (15ml + 100ml) - Search,976.36,13958,488,18.1,10477.52
+2026-09-06,GR Glow Combo Starter (15ml + 100ml) - Search,1229.12,16408,493,18.6,8722.89
+2026-09-07,GR Glow Combo Starter (15ml + 100ml) - Search,1071.2,11640,311,11.1,6684.16
+2026-09-08,GR Glow Combo Starter (15ml + 100ml) - Search,1178.18,8926,297,9.3,4365.71
+2026-09-09,GR Glow Combo Starter (15ml + 100ml) - Search,970.6,6455,195,8.2,4097.17
+2026-09-10,GR Glow Combo Starter (15ml + 100ml) - Search,1158.06,11027,375,15.7,7079.09
+2026-09-11,GR Glow Combo Starter (15ml + 100ml) - Search,906.63,13039,453,15.7,7015.42
+2026-09-12,GR Glow Combo Starter (15ml + 100ml) - Search,1172.72,19371,544,14.6,6901.11
+2026-09-13,GR Glow Combo Starter (15ml + 100ml) - Search,1023.32,11831,415,16.3,7282.56
+2026-09-14,GR Glow Combo Starter (15ml + 100ml) - Search,989.86,9839,337,12.2,6386.23
+2026-09-15,GR Glow Combo Starter (15ml + 100ml) - Search,1119.15,14739,397,11.7,7803.69
+2026-09-16,GR Glow Combo Starter (15ml + 100ml) - Search,911.73,9365,287,7.0,3308.14
+2026-09-17,GR Glow Combo Starter (15ml + 100ml) - Search,974.17,14841,463,17.5,8515.39
+2026-09-18,GR Glow Combo Starter (15ml + 100ml) - Search,1029.21,14086,495,16.3,7203.58
+2026-09-19,GR Glow Combo Starter (15ml + 100ml) - Search,876.33,13217,413,11.1,5170.3
+2026-09-20,GR Glow Combo Starter (15ml + 100ml) - Search,843.47,8088,264,9.3,5150.13
+2026-09-21,GR Glow Combo Starter (15ml + 100ml) - Search,971.86,10204,324,11.7,5483.99
+2026-09-01,GR Ubtan Face Wash 100 ml - Search,406.82,3102,188,8.1,1965.7
+2026-09-02,GR Ubtan Face Wash 100 ml - Search,477.2,6857,285,9.0,1836.87
+2026-09-03,GR Ubtan Face Wash 100 ml - Search,387.46,4716,277,13.4,3061.04
+2026-09-04,GR Ubtan Face Wash 100 ml - Search,400.37,7116,423,18.8,3762.54
+2026-09-05,GR Ubtan Face Wash 100 ml - Search,403.48,4601,247,10.2,1907.91
+2026-09-06,GR Ubtan Face Wash 100 ml - Search,378.56,5477,265,12.8,2798.12
+2026-09-07,GR Ubtan Face Wash 100 ml - Search,418.84,4982,269,13.2,2871.79
+2026-09-08,GR Ubtan Face Wash 100 ml - Search,492.15,5427,285,6.3,1607.19
+2026-09-09,GR Ubtan Face Wash 100 ml - Search,446.28,5230,278,8.3,1902.23
+2026-09-10,GR Ubtan Face Wash 100 ml - Search,424.1,4733,300,13.4,2830.68
+2026-09-11,GR Ubtan Face Wash 100 ml - Search,396.13,6687,356,12.5,2375.56
+2026-09-12,GR Ubtan Face Wash 100 ml - Search,493.04,6113,331,9.7,2327.22
+2026-09-13,GR Ubtan Face Wash 100 ml - Search,463.97,6040,264,13.0,2570.99
+2026-09-14,GR Ubtan Face Wash 100 ml - Search,470.0,5322,270,12.8,2435.22
+2026-09-15,GR Ubtan Face Wash 100 ml - Search,485.5,4679,215,10.9,2094.64
+2026-09-16,GR Ubtan Face Wash 100 ml - Search,482.64,7798,407,8.1,1542.99
+2026-09-17,GR Ubtan Face Wash 100 ml - Search,347.9,5610,316,7.7,1543.7
+2026-09-18,GR Ubtan Face Wash 100 ml - Search,402.2,3442,202,6.5,1222.9
+2026-09-19,GR Ubtan Face Wash 100 ml - Search,348.08,5732,273,6.7,1387.99
+2026-09-20,GR Ubtan Face Wash 100 ml - Search,477.78,3904,225,7.4,1387.77
+2026-09-21,GR Ubtan Face Wash 100 ml - Search,485.84,4695,243,6.0,1585.8
+2026-09-01,GR Ubtan Face Wash 150 ml - Search,309.42,10659,435,17.4,4901.19
+2026-09-02,GR Ubtan Face Wash 150 ml - Search,316.17,9170,455,17.8,4599.37
+2026-09-03,GR Ubtan Face Wash 150 ml - Search,246.44,10606,534,21.9,5726.67
+2026-09-04,GR Ubtan Face Wash 150 ml - Search,288.77,9321,435,20.3,5544.64
+2026-09-05,GR Ubtan Face Wash 150 ml - Search,317.01,10186,475,15.3,5813.34
+2026-09-06,GR Ubtan Face Wash 150 ml - Search,264.08,7669,395,12.4,3546.53
+2026-09-07,GR Ubtan Face Wash 150 ml - Search,268.67,10022,514,21.5,5981.36
+2026-09-08,GR Ubtan Face Wash 150 ml - Search,374.51,7043,318,9.9,3662.96
+2026-09-09,GR Ubtan Face Wash 150 ml - Search,371.58,10580,534,7.0,4018.85
+2026-09-10,GR Ubtan Face Wash 150 ml - Search,313.21,10982,542,26.5,7132.08
+2026-09-11,GR Ubtan Face Wash 150 ml - Search,291.69,5622,299,12.8,3525.98
+2026-09-12,GR Ubtan Face Wash 150 ml - Search,293.9,9875,500,17.4,5809.63
+2026-09-13,GR Ubtan Face Wash 150 ml - Search,345.28,12152,613,25.3,7717.88
+2026-09-14,GR Ubtan Face Wash 150 ml - Search,304.47,6396,310,7.5,2068.75
+2026-09-15,GR Ubtan Face Wash 150 ml - Search,317.12,9805,416,16.6,4594.53
+2026-09-16,GR Ubtan Face Wash 150 ml - Search,292.68,10301,491,13.7,3555.6
+2026-09-17,GR Ubtan Face Wash 150 ml - Search,306.23,13036,709,16.6,4344.22
+2026-09-18,GR Ubtan Face Wash 150 ml - Search,388.46,7047,329,7.9,2579.52
+2026-09-19,GR Ubtan Face Wash 150 ml - Search,393.92,10874,528,17.8,4763.39
+2026-09-20,GR Ubtan Face Wash 150 ml - Search,275.41,11906,617,22.4,6337.8
+2026-09-21,GR Ubtan Face Wash 150 ml - Search,291.93,8219,416,12.8,3463.81
+2026-09-01,GR Onion Hair Oil 150 ml - Search,292.41,7969,330,15.6,4770.95
+2026-09-02,GR Onion Hair Oil 150 ml - Search,253.0,5376,244,12.6,4027.39
+2026-09-03,GR Onion Hair Oil 150 ml - Search,288.5,7958,367,17.0,5997.04
+2026-09-04,GR Onion Hair Oil 150 ml - Search,325.04,7105,300,5.6,2058.32
+2026-09-05,GR Onion Hair Oil 150 ml - Search,250.35,8911,355,17.0,5260.04
+2026-09-06,GR Onion Hair Oil 150 ml - Search,266.28,8308,318,10.7,3490.38
+2026-09-07,GR Onion Hair Oil 150 ml - Search,243.24,6259,271,14.1,4308.91
+2026-09-08,GR Onion Hair Oil 150 ml - Search,255.1,8583,434,14.4,4669.06
+2026-09-09,GR Onion Hair Oil 150 ml - Search,265.67,9012,469,19.6,6694.05
+2026-09-10,GR Onion Hair Oil 150 ml - Search,286.33,7195,270,12.6,4748.58
+2026-09-11,GR Onion Hair Oil 150 ml - Search,224.67,5803,208,8.9,2712.64
+2026-09-12,GR Onion Hair Oil 150 ml - Search,240.12,10698,388,15.6,4994.95
+2026-09-13,GR Onion Hair Oil 150 ml - Search,244.69,8450,345,17.0,5167.79
+2026-09-14,GR Onion Hair Oil 150 ml - Search,322.82,8043,315,14.4,4404.5
+2026-09-15,GR Onion Hair Oil 150 ml - Search,273.32,6120,260,8.9,3353.87
+2026-09-16,GR Onion Hair Oil 150 ml - Search,165.85,6421,266,10.0,3043.03
+2026-09-17,GR Onion Hair Oil 150 ml - Search,305.12,6558,282,13.0,4049.32
+2026-09-18,GR Onion Hair Oil 150 ml - Search,274.87,7940,337,11.5,3714.73
+2026-09-19,GR Onion Hair Oil 150 ml - Search,226.01,5244,192,11.1,3384.61
+2026-09-20,GR Onion Hair Oil 150 ml - Search,231.68,6646,293,15.6,4588.11
+2026-09-21,GR Onion Hair Oil 150 ml - Search,266.58,7420,264,8.5,2563.01
+2026-09-01,GR Onion Hair Oil 250 ml - Search,703.74,7369,243,9.2,5818.52
+2026-09-02,GR Onion Hair Oil 250 ml - Search,659.89,12870,476,17.1,8272.36
+2026-09-03,GR Onion Hair Oil 250 ml - Search,798.76,10105,344,10.5,5629.17
+2026-09-04,GR Onion Hair Oil 250 ml - Search,799.96,7642,271,8.8,4535.06
+2026-09-05,GR Onion Hair Oil 250 ml - Search,836.48,9137,292,6.6,3247.35
+2026-09-06,GR Onion Hair Oil 250 ml - Search,905.81,11421,402,8.3,3710.11
+2026-09-07,GR Onion Hair Oil 250 ml - Search,878.19,11940,452,15.3,8732.41
+2026-09-08,GR Onion Hair Oil 250 ml - Search,915.66,6211,221,5.7,2651.52
+2026-09-09,GR Onion Hair Oil 250 ml - Search,801.06,9714,326,11.8,6094.0
+2026-09-10,GR Onion Hair Oil 250 ml - Search,878.83,10455,297,13.1,5919.8
+2026-09-11,GR Onion Hair Oil 250 ml - Search,880.54,7378,243,6.6,3172.8
+2026-09-12,GR Onion Hair Oil 250 ml - Search,825.29,9435,329,12.3,5628.73
+2026-09-13,GR Onion Hair Oil 250 ml - Search,830.33,10717,368,16.6,9379.75
+2026-09-14,GR Onion Hair Oil 250 ml - Search,674.07,9392,360,12.3,5675.12
+2026-09-15,GR Onion Hair Oil 250 ml - Search,907.32,13618,501,20.6,9547.36
+2026-09-16,GR Onion Hair Oil 250 ml - Search,675.16,8451,296,9.2,4328.25
+2026-09-17,GR Onion Hair Oil 250 ml - Search,922.58,10326,316,13.1,5851.63
+2026-09-18,GR Onion Hair Oil 250 ml - Search,785.06,10402,341,10.5,6041.07
+2026-09-19,GR Onion Hair Oil 250 ml - Search,739.47,10089,400,6.1,3258.99
+2026-09-20,GR Onion Hair Oil 250 ml - Search,711.16,9206,337,10.9,6025.4
+2026-09-21,GR Onion Hair Oil 250 ml - Search,671.69,13137,451,17.9,9401.44
+2026-09-01,GR Lip Balm Cherry - Search,430.63,6882,331,12.4,1972.94
+2026-09-02,GR Lip Balm Cherry - Search,552.02,5433,283,10.4,1605.65
+2026-09-03,GR Lip Balm Cherry - Search,429.71,8383,396,14.0,2525.34
+2026-09-04,GR Lip Balm Cherry - Search,489.73,7903,449,13.0,2092.42
+2026-09-05,GR Lip Balm Cherry - Search,505.15,10437,539,18.9,3008.56
+2026-09-06,GR Lip Balm Cherry - Search,550.39,11398,483,12.4,1996.16
+2026-09-07,GR Lip Balm Cherry - Search,538.62,5739,339,13.7,2152.25
+2026-09-08,GR Lip Balm Cherry - Search,511.03,8609,444,16.9,2699.72
+2026-09-09,GR Lip Balm Cherry - Search,549.4,10128,424,14.7,2363.12
+2026-09-10,GR Lip Balm Cherry - Search,508.69,8938,348,12.0,1980.57
+2026-09-11,GR Lip Balm Cherry - Search,531.55,9590,481,16.6,2478.25
+2026-09-12,GR Lip Balm Cherry - Search,581.36,11140,487,13.7,2130.98
+2026-09-13,GR Lip Balm Cherry - Search,461.21,13636,648,23.1,3903.78
+2026-09-14,GR Lip Balm Cherry - Search,447.5,6720,248,9.1,1727.37
+2026-09-15,GR Lip Balm Cherry - Search,458.74,5762,256,7.5,1362.64
+2026-09-16,GR Lip Balm Cherry - Search,559.39,8648,432,12.7,2033.95
+2026-09-17,GR Lip Balm Cherry - Search,490.29,7260,464,18.6,3687.99
+2026-09-18,GR Lip Balm Cherry - Search,420.9,9434,491,8.8,1977.36
+2026-09-19,GR Lip Balm Cherry - Search,479.78,10682,609,18.6,3464.51
+2026-09-20,GR Lip Balm Cherry - Search,488.09,9557,415,16.9,2659.4
+2026-09-21,GR Lip Balm Cherry - Search,389.83,11044,546,18.6,2937.8
+2026-09-01,GR Lip Balm Natural - Search,566.17,5808,228,9.5,1447.68
+2026-09-02,GR Lip Balm Natural - Search,668.29,4719,196,9.2,1444.79
+2026-09-03,GR Lip Balm Natural - Search,570.01,7823,311,10.3,1989.06
+2026-09-04,GR Lip Balm Natural - Search,678.14,6912,251,8.1,1367.21
+2026-09-05,GR Lip Balm Natural - Search,604.38,5991,261,13.3,1963.96
+2026-09-06,GR Lip Balm Natural - Search,584.18,6941,307,9.5,1451.24
+2026-09-07,GR Lip Balm Natural - Search,682.91,7059,336,10.3,1648.93
+2026-09-08,GR Lip Balm Natural - Search,569.94,7941,412,14.2,2094.15
+2026-09-09,GR Lip Balm Natural - Search,745.12,6631,280,12.0,1933.48
+2026-09-10,GR Lip Balm Natural - Search,711.37,6278,316,9.2,1848.92
+2026-09-11,GR Lip Balm Natural - Search,626.77,5974,276,10.6,1607.61
+2026-09-12,GR Lip Balm Natural - Search,553.83,7366,321,12.2,1811.78
+2026-09-13,GR Lip Balm Natural - Search,643.4,5944,237,9.2,1770.97
+2026-09-14,GR Lip Balm Natural - Search,637.22,5313,231,8.6,1409.89
+2026-09-15,GR Lip Balm Natural - Search,562.46,11199,415,15.8,2539.6
+2026-09-16,GR Lip Balm Natural - Search,723.31,5302,213,8.3,1299.5
+2026-09-17,GR Lip Balm Natural - Search,579.28,9398,386,12.8,1894.66
+2026-09-18,GR Lip Balm Natural - Search,611.93,6446,274,12.0,2149.66
+2026-09-19,GR Lip Balm Natural - Search,620.98,9688,387,14.2,2405.68
+2026-09-20,GR Lip Balm Natural - Search,793.13,7193,351,12.2,2320.5
+2026-09-21,GR Lip Balm Natural - Search,671.71,7631,325,8.1,1230.84
+2026-09-01,GR Lip Balm Strawberry - Search,293.2,5142,187,9.7,1524.09
+2026-09-02,GR Lip Balm Strawberry - Search,256.1,4269,124,4.0,723.36
+2026-09-03,GR Lip Balm Strawberry - Search,240.24,5725,173,4.8,741.34
+2026-09-04,GR Lip Balm Strawberry - Search,326.81,5358,169,5.4,808.18
+2026-09-05,GR Lip Balm Strawberry - Search,273.31,6147,177,8.5,1311.15
+2026-09-06,GR Lip Balm Strawberry - Search,275.97,6280,156,7.7,1259.04
+2026-09-07,GR Lip Balm Strawberry - Search,332.79,7235,230,8.5,1552.54
+2026-09-08,GR Lip Balm Strawberry - Search,303.23,5379,146,8.0,1440.63
+2026-09-09,GR Lip Balm Strawberry - Search,319.16,5708,203,8.8,1461.96
+2026-09-10,GR Lip Balm Strawberry - Search,327.41,5665,140,2.6,478.17
+2026-09-11,GR Lip Balm Strawberry - Search,342.07,3992,99,6.0,944.41
+2026-09-12,GR Lip Balm Strawberry - Search,263.9,6560,191,9.4,1464.79
+2026-09-13,GR Lip Balm Strawberry - Search,277.66,7068,219,5.1,918.54
+2026-09-14,GR Lip Balm Strawberry - Search,313.8,6109,170,8.5,1361.9
+2026-09-15,GR Lip Balm Strawberry - Search,289.5,6285,162,6.0,1154.56
+2026-09-16,GR Lip Balm Strawberry - Search,307.66,5450,148,7.1,1370.31
+2026-09-17,GR Lip Balm Strawberry - Search,194.36,5991,137,5.4,811.46
+2026-09-18,GR Lip Balm Strawberry - Search,284.81,6415,172,4.8,764.08
+2026-09-19,GR Lip Balm Strawberry - Search,365.92,6498,233,7.7,1188.71
+2026-09-20,GR Lip Balm Strawberry - Search,274.33,7377,184,9.4,1710.86
+2026-09-21,GR Lip Balm Strawberry - Search,276.87,6960,201,10.0,1483.63
+2026-09-01,GR Aloe Moisturizer 100 g - Search,935.64,3459,133,3.6,2239.52
+2026-09-02,GR Aloe Moisturizer 100 g - Search,941.21,10723,421,12.0,6469.27
+2026-09-03,GR Aloe Moisturizer 100 g - Search,791.12,6842,234,5.1,2532.43
+2026-09-04,GR Aloe Moisturizer 100 g - Search,895.4,6195,249,8.0,4718.3
+2026-09-05,GR Aloe Moisturizer 100 g - Search,931.61,6456,268,8.4,4009.18
+2026-09-06,GR Aloe Moisturizer 100 g - Search,719.15,7311,244,7.3,3810.15
+2026-09-07,GR Aloe Moisturizer 100 g - Search,886.66,6421,200,5.5,2740.51
+2026-09-08,GR Aloe Moisturizer 100 g - Search,892.73,8763,353,10.2,4953.21
+2026-09-09,GR Aloe Moisturizer 100 g - Search,766.0,7244,248,5.5,3141.35
+2026-09-10,GR Aloe Moisturizer 100 g - Search,790.94,5493,205,6.6,3281.86
+2026-09-11,GR Aloe Moisturizer 100 g - Search,857.72,6661,234,7.3,3509.63
+2026-09-12,GR Aloe Moisturizer 100 g - Search,837.86,8390,311,9.1,4438.78
+2026-09-13,GR Aloe Moisturizer 100 g - Search,833.0,11205,378,12.4,6435.66
+2026-09-14,GR Aloe Moisturizer 100 g - Search,750.6,6591,252,4.7,2490.89
+2026-09-15,GR Aloe Moisturizer 100 g - Search,891.69,8422,324,8.7,5062.23
+2026-09-16,GR Aloe Moisturizer 100 g - Search,830.83,6222,246,8.4,4397.14
+2026-09-17,GR Aloe Moisturizer 100 g - Search,904.5,12096,495,11.7,8056.62
+2026-09-18,GR Aloe Moisturizer 100 g - Search,949.59,8228,318,9.1,5087.63
+2026-09-19,GR Aloe Moisturizer 100 g - Search,839.8,8884,342,9.1,4683.78
+2026-09-20,GR Aloe Moisturizer 100 g - Search,849.47,8040,267,7.3,4727.83
+2026-09-21,GR Aloe Moisturizer 100 g - Search,907.72,5888,187,2.9,1733.23
+2026-09-01,GR Aloe Moisturizer 50 g - Search,1065.28,10588,521,23.5,7255.12
+2026-09-02,GR Aloe Moisturizer 50 g - Search,909.59,6205,299,11.3,3545.95
+2026-09-03,GR Aloe Moisturizer 50 g - Search,988.41,6975,271,8.5,3298.43
+2026-09-04,GR Aloe Moisturizer 50 g - Search,1212.54,6296,281,7.3,2388.95
+2026-09-05,GR Aloe Moisturizer 50 g - Search,1243.83,6519,303,10.5,3144.16
+2026-09-06,GR Aloe Moisturizer 50 g - Search,1152.11,13581,590,20.7,6199.6
+2026-09-07,GR Aloe Moisturizer 50 g - Search,1017.12,6255,285,10.9,3970.7
+2026-09-08,GR Aloe Moisturizer 50 g - Search,1050.43,8435,385,15.4,4529.96
+2026-09-09,GR Aloe Moisturizer 50 g - Search,1186.85,8837,400,9.3,2800.75
+2026-09-10,GR Aloe Moisturizer 50 g - Search,1114.63,10762,511,20.3,6240.3
+2026-09-11,GR Aloe Moisturizer 50 g - Search,1169.92,7183,340,5.3,1661.09
+2026-09-12,GR Aloe Moisturizer 50 g - Search,1196.94,8137,396,14.2,4962.98
+2026-09-13,GR Aloe Moisturizer 50 g - Search,900.58,12533,570,19.4,6795.59
+2026-09-14,GR Aloe Moisturizer 50 g - Search,1063.08,9617,427,19.8,6348.6
+2026-09-15,GR Aloe Moisturizer 50 g - Search,982.04,10007,514,15.0,5441.56
+2026-09-16,GR Aloe Moisturizer 50 g - Search,1185.86,8914,381,10.5,3136.61
+2026-09-17,GR Aloe Moisturizer 50 g - Search,983.98,5841,241,10.5,3242.56
+2026-09-18,GR Aloe Moisturizer 50 g - Search,1172.71,11338,515,17.0,6354.77
+2026-09-19,GR Aloe Moisturizer 50 g - Search,1258.05,6862,291,10.5,3645.69
+2026-09-20,GR Aloe Moisturizer 50 g - Search,1043.07,10828,472,13.8,5101.63
+2026-09-21,GR Aloe Moisturizer 50 g - Search,1037.65,6736,252,9.7,3044.53
+2026-09-01,GR Retinol Serum 15 ml - Search,775.23,11082,362,11.0,6026.1
+2026-09-02,GR Retinol Serum 15 ml - Search,816.53,7585,303,3.3,2516.26
+2026-09-03,GR Retinol Serum 15 ml - Search,849.09,5487,200,3.3,2050.12
+2026-09-04,GR Retinol Serum 15 ml - Search,795.32,6609,184,4.5,2429.18
+2026-09-05,GR Retinol Serum 15 ml - Search,972.65,7285,238,4.9,2963.83
+2026-09-06,GR Retinol Serum 15 ml - Search,943.21,8293,297,5.3,4061.56
+2026-09-07,GR Retinol Serum 15 ml - Search,803.31,5614,201,5.3,3506.82
+2026-09-08,GR Retinol Serum 15 ml - Search,954.11,8568,251,7.7,4288.68
+2026-09-09,GR Retinol Serum 15 ml - Search,795.56,8451,292,6.9,3803.94
+2026-09-10,GR Retinol Serum 15 ml - Search,795.75,6825,270,6.1,4853.01
+2026-09-11,GR Retinol Serum 15 ml - Search,767.3,5077,184,3.7,2202.62
+2026-09-12,GR Retinol Serum 15 ml - Search,850.85,10262,324,6.1,3392.28
+2026-09-13,GR Retinol Serum 15 ml - Search,919.4,10050,320,6.1,3402.21
+2026-09-14,GR Retinol Serum 15 ml - Search,615.32,7795,242,5.7,3038.87
+2026-09-15,GR Retinol Serum 15 ml - Search,887.77,6734,203,5.3,2847.82
+2026-09-16,GR Retinol Serum 15 ml - Search,761.52,6359,180,3.3,1940.7
+2026-09-17,GR Retinol Serum 15 ml - Search,682.0,7073,194,5.7,3312.56
+2026-09-18,GR Retinol Serum 15 ml - Search,851.93,8808,307,9.0,4809.38
+2026-09-19,GR Retinol Serum 15 ml - Search,902.34,5849,201,5.3,2953.33
+2026-09-20,GR Retinol Serum 15 ml - Search,601.55,7499,251,3.7,1920.14
+2026-09-21,GR Retinol Serum 15 ml - Search,640.37,8750,317,9.0,5265.77
+2026-09-01,GR Retinol Serum 30 ml - Search,412.61,5736,301,9.4,8070.91
+2026-09-02,GR Retinol Serum 30 ml - Search,386.85,5259,306,7.7,8554.8
+2026-09-03,GR Retinol Serum 30 ml - Search,434.81,4375,228,6.1,5384.61
+2026-09-04,GR Retinol Serum 30 ml - Search,461.69,7394,355,12.1,10659.45
+2026-09-05,GR Retinol Serum 30 ml - Search,440.04,5490,276,10.8,9199.06
+2026-09-06,GR Retinol Serum 30 ml - Search,401.89,5594,281,7.4,6079.16
+2026-09-07,GR Retinol Serum 30 ml - Search,426.27,3329,156,4.4,3619.74
+2026-09-08,GR Retinol Serum 30 ml - Search,423.39,3446,167,6.4,5428.91
+2026-09-09,GR Retinol Serum 30 ml - Search,481.7,5535,219,7.7,6516.63
+2026-09-10,GR Retinol Serum 30 ml - Search,369.03,5381,261,9.4,11306.45
+2026-09-11,GR Retinol Serum 30 ml - Search,473.93,5412,315,8.4,10737.02
+2026-09-12,GR Retinol Serum 30 ml - Search,445.57,3753,183,6.4,5654.74
+2026-09-13,GR Retinol Serum 30 ml - Search,448.83,5554,225,8.8,7198.1
+2026-09-14,GR Retinol Serum 30 ml - Search,449.16,5670,267,8.4,8213.71
+2026-09-15,GR Retinol Serum 30 ml - Search,431.32,5656,316,11.5,9444.24
+2026-09-16,GR Retinol Serum 30 ml - Search,436.6,5233,231,7.7,7999.76
+2026-09-17,GR Retinol Serum 30 ml - Search,374.16,4676,253,5.4,5538.32
+2026-09-18,GR Retinol Serum 30 ml - Search,368.34,3849,185,7.7,6640.66
+2026-09-19,GR Retinol Serum 30 ml - Search,375.0,6483,323,10.8,8778.92
+2026-09-20,GR Retinol Serum 30 ml - Search,376.53,5386,218,6.4,5466.03
+2026-09-21,GR Retinol Serum 30 ml - Search,396.8,5985,239,9.4,8866.72
+2026-09-01,GR Onion Shampoo 250 ml - Search,813.65,7734,225,6.4,1793.5
+2026-09-02,GR Onion Shampoo 250 ml - Search,688.31,8214,268,7.3,1975.07
+2026-09-03,GR Onion Shampoo 250 ml - Search,695.57,6847,270,6.4,2202.18
+2026-09-04,GR Onion Shampoo 250 ml - Search,610.57,6935,238,6.0,1571.58
+2026-09-05,GR Onion Shampoo 250 ml - Search,653.62,5687,188,6.4,1786.9
+2026-09-06,GR Onion Shampoo 250 ml - Search,629.11,6939,220,5.2,1647.07
+2026-09-07,GR Onion Shampoo 250 ml - Search,649.35,7876,268,4.7,1492.92
+2026-09-08,GR Onion Shampoo 250 ml - Search,758.22,8397,284,5.6,1587.35
+2026-09-09,GR Onion Shampoo 250 ml - Search,698.5,5619,167,4.3,1197.05
+2026-09-10,GR Onion Shampoo 250 ml - Search,732.1,5625,205,5.6,1587.32
+2026-09-11,GR Onion Shampoo 250 ml - Search,597.8,7047,229,6.9,1773.84
+2026-09-12,GR Onion Shampoo 250 ml - Search,578.27,7300,221,6.9,2550.98
+2026-09-13,GR Onion Shampoo 250 ml - Search,811.79,6705,231,6.0,1624.84
+2026-09-14,GR Onion Shampoo 250 ml - Search,613.53,2061,67,2.1,580.42
+2026-09-15,GR Onion Shampoo 250 ml - Search,646.39,5930,171,5.2,1741.86
+2026-09-16,GR Onion Shampoo 250 ml - Search,737.44,4915,175,3.4,1508.68
+2026-09-17,GR Onion Shampoo 250 ml - Search,657.5,9973,337,11.2,2944.33
+2026-09-18,GR Onion Shampoo 250 ml - Search,668.95,8647,330,9.9,2808.78
+2026-09-19,GR Onion Shampoo 250 ml - Search,691.0,6985,235,6.4,1735.18
+2026-09-20,GR Onion Shampoo 250 ml - Search,808.86,5971,221,5.2,1670.22
+2026-09-21,GR Onion Shampoo 250 ml - Search,656.65,5142,180,3.4,923.23
+2026-09-01,GR Onion Shampoo 400 ml - Search,1068.83,8280,249,3.1,1675.45
+2026-09-02,GR Onion Shampoo 400 ml - Search,800.03,10426,257,4.4,1657.46
+2026-09-03,GR Onion Shampoo 400 ml - Search,983.9,8098,209,6.6,2671.24
+2026-09-04,GR Onion Shampoo 400 ml - Search,764.87,10580,271,6.6,3044.87
+2026-09-05,GR Onion Shampoo 400 ml - Search,1169.78,10250,278,7.9,3273.44
+2026-09-06,GR Onion Shampoo 400 ml - Search,1102.58,6890,153,2.2,983.72
+2026-09-07,GR Onion Shampoo 400 ml - Search,1149.22,15216,343,9.6,3685.09
+2026-09-08,GR Onion Shampoo 400 ml - Search,1283.58,9513,266,5.3,1969.52
+2026-09-09,GR Onion Shampoo 400 ml - Search,707.82,7399,229,5.7,2788.4
+2026-09-10,GR Onion Shampoo 400 ml - Search,991.68,7208,215,3.5,1609.13
+2026-09-11,GR Onion Shampoo 400 ml - Search,1124.73,7069,156,4.4,1849.2
+2026-09-12,GR Onion Shampoo 400 ml - Search,874.56,8187,220,6.6,2487.68
+2026-09-13,GR Onion Shampoo 400 ml - Search,888.07,8350,222,4.8,1899.63
+2026-09-14,GR Onion Shampoo 400 ml - Search,1206.9,7649,257,6.1,2340.19
+2026-09-15,GR Onion Shampoo 400 ml - Search,1180.66,8129,265,7.9,3070.97
+2026-09-16,GR Onion Shampoo 400 ml - Search,927.4,8231,234,6.6,3272.48
+2026-09-17,GR Onion Shampoo 400 ml - Search,1351.3,8970,272,5.7,2175.73
+2026-09-18,GR Onion Shampoo 400 ml - Search,1136.63,10921,305,7.5,2796.03
+2026-09-19,GR Onion Shampoo 400 ml - Search,976.17,9457,315,10.1,3755.63
+2026-09-20,GR Onion Shampoo 400 ml - Search,1090.74,9316,280,3.5,1327.27
+2026-09-21,GR Onion Shampoo 400 ml - Search,1014.97,9853,243,6.1,2404.23
+2026-09-01,GR Sunscreen SPF 50 100 g - Search,596.28,6387,267,7.5,4336.74
+2026-09-02,GR Sunscreen SPF 50 100 g - Search,630.85,8285,410,14.6,9899.4
+2026-09-03,GR Sunscreen SPF 50 100 g - Search,605.62,3680,153,3.8,2115.8
+2026-09-04,GR Sunscreen SPF 50 100 g - Search,744.06,7627,373,13.6,7730.47
+2026-09-05,GR Sunscreen SPF 50 100 g - Search,713.75,6187,297,8.9,6411.73
+2026-09-06,GR Sunscreen SPF 50 100 g - Search,694.06,6761,313,8.9,6619.21
+2026-09-07,GR Sunscreen SPF 50 100 g - Search,855.7,5759,251,8.0,4438.46
+2026-09-08,GR Sunscreen SPF 50 100 g - Search,677.99,6296,274,5.6,4091.01
+2026-09-09,GR Sunscreen SPF 50 100 g - Search,696.23,7366,336,11.3,8395.96
+2026-09-10,GR Sunscreen SPF 50 100 g - Search,708.26,8713,367,10.4,8420.84
+2026-09-11,GR Sunscreen SPF 50 100 g - Search,583.52,9473,410,12.7,9438.36
+2026-09-12,GR Sunscreen SPF 50 100 g - Search,703.21,10535,441,11.8,6946.7
+2026-09-13,GR Sunscreen SPF 50 100 g - Search,624.45,6341,328,10.8,6021.45
+2026-09-14,GR Sunscreen SPF 50 100 g - Search,667.31,8615,350,10.4,6036.6
+2026-09-15,GR Sunscreen SPF 50 100 g - Search,716.01,8723,420,10.8,7472.27
+2026-09-16,GR Sunscreen SPF 50 100 g - Search,637.89,7689,395,10.8,6266.6
+2026-09-17,GR Sunscreen SPF 50 100 g - Search,576.81,9823,428,10.4,5807.67
+2026-09-18,GR Sunscreen SPF 50 100 g - Search,777.19,9277,480,10.4,5899.2
+2026-09-19,GR Sunscreen SPF 50 100 g - Search,715.4,10411,471,13.2,7821.79
+2026-09-20,GR Sunscreen SPF 50 100 g - Search,752.93,6501,316,9.4,5523.66
+2026-09-21,GR Sunscreen SPF 50 100 g - Search,704.27,9492,470,16.0,9264.22
+2026-09-01,GR Sunscreen SPF 50 50 g - Search,589.24,6055,249,3.8,1983.96
+2026-09-02,GR Sunscreen SPF 50 50 g - Search,579.18,7917,242,11.5,4110.93
+2026-09-03,GR Sunscreen SPF 50 50 g - Search,443.34,7644,217,4.6,1608.01
+2026-09-04,GR Sunscreen SPF 50 50 g - Search,606.43,6382,199,3.8,1327.98
+2026-09-05,GR Sunscreen SPF 50 50 g - Search,498.23,8730,327,8.4,2840.23
+2026-09-06,GR Sunscreen SPF 50 50 g - Search,644.51,7803,347,9.6,3459.26
+2026-09-07,GR Sunscreen SPF 50 50 g - Search,514.89,6266,240,8.8,4177.33
+2026-09-08,GR Sunscreen SPF 50 50 g - Search,576.74,5023,210,6.9,3268.58
+2026-09-09,GR Sunscreen SPF 50 50 g - Search,469.26,4853,186,6.9,3021.67
+2026-09-10,GR Sunscreen SPF 50 50 g - Search,637.54,7261,220,6.9,2395.76
+2026-09-11,GR Sunscreen SPF 50 50 g - Search,503.7,7939,293,6.5,3182.68
+2026-09-12,GR Sunscreen SPF 50 50 g - Search,590.88,6064,236,10.3,3557.22
+2026-09-13,GR Sunscreen SPF 50 50 g - Search,528.44,5320,171,5.0,2256.92
+2026-09-14,GR Sunscreen SPF 50 50 g - Search,462.28,7144,303,10.3,3561.84
+2026-09-15,GR Sunscreen SPF 50 50 g - Search,534.2,5523,185,7.6,3089.44
+2026-09-16,GR Sunscreen SPF 50 50 g - Search,495.5,4778,201,8.4,3149.52
+2026-09-17,GR Sunscreen SPF 50 50 g - Search,633.55,8784,359,11.1,4357.83
+2026-09-18,GR Sunscreen SPF 50 50 g - Search,563.64,5541,184,5.0,1803.42
+2026-09-19,GR Sunscreen SPF 50 50 g - Search,576.21,4506,143,5.4,2090.68
+2026-09-20,GR Sunscreen SPF 50 50 g - Search,521.29,8594,336,8.8,3178.39
+2026-09-21,GR Sunscreen SPF 50 50 g - Search,539.71,6387,221,12.6,4615.27
+2026-09-01,GR Vitamin C Serum 15 ml - Search,668.17,7866,413,22.1,7186.74
+2026-09-02,GR Vitamin C Serum 15 ml - Search,725.23,7446,407,13.5,4726.29
+2026-09-03,GR Vitamin C Serum 15 ml - Search,727.69,7591,392,16.0,4893.64
+2026-09-04,GR Vitamin C Serum 15 ml - Search,659.69,4546,240,7.4,2581.69
+2026-09-05,GR Vitamin C Serum 15 ml - Search,646.12,10497,401,17.2,5175.41
+2026-09-06,GR Vitamin C Serum 15 ml - Search,685.85,3874,213,10.1,3296.52
+2026-09-07,GR Vitamin C Serum 15 ml - Search,751.72,7046,309,19.1,6374.96
+2026-09-08,GR Vitamin C Serum 15 ml - Search,749.66,5816,299,11.7,3641.81
+2026-09-09,GR Vitamin C Serum 15 ml - Search,905.43,6796,353,21.2,6928.92
+2026-09-10,GR Vitamin C Serum 15 ml - Search,773.2,7037,312,15.1,5709.38
+2026-09-11,GR Vitamin C Serum 15 ml - Search,600.47,6267,242,9.8,3745.89
+2026-09-12,GR Vitamin C Serum 15 ml - Search,706.36,6128,360,15.4,4849.9
+2026-09-13,GR Vitamin C Serum 15 ml - Search,564.63,6542,256,8.9,2820.22
+2026-09-14,GR Vitamin C Serum 15 ml - Search,667.11,8243,364,18.5,6455.5
+2026-09-15,GR Vitamin C Serum 15 ml - Search,778.73,5000,224,7.1,2403.76
+2026-09-16,GR Vitamin C Serum 15 ml - Search,692.74,5351,259,9.8,3299.54
+2026-09-17,GR Vitamin C Serum 15 ml - Search,755.76,7659,346,12.0,3820.75
+2026-09-18,GR Vitamin C Serum 15 ml - Search,615.18,6504,259,10.8,3405.3
+2026-09-19,GR Vitamin C Serum 15 ml - Search,768.65,4864,232,11.4,3848.67
+2026-09-20,GR Vitamin C Serum 15 ml - Search,746.03,7597,324,17.8,5690.49
+2026-09-21,GR Vitamin C Serum 15 ml - Search,681.7,7037,330,12.0,3758.74
+2026-09-01,GR Vitamin C Serum 30 ml - Search,454.33,12042,396,16.2,8955.04
+2026-09-02,GR Vitamin C Serum 30 ml - Search,493.36,10224,334,19.0,8519.87
+2026-09-03,GR Vitamin C Serum 30 ml - Search,458.76,13291,412,22.5,10142.44
+2026-09-04,GR Vitamin C Serum 30 ml - Search,489.12,11531,345,17.3,9203.95
+2026-09-05,GR Vitamin C Serum 30 ml - Search,419.19,12666,457,18.5,9044.52
+2026-09-06,GR Vitamin C Serum 30 ml - Search,525.85,13312,471,18.5,11307.02
+2026-09-07,GR Vitamin C Serum 30 ml - Search,451.3,9161,346,3.5,1634.79
+2026-09-08,GR Vitamin C Serum 30 ml - Search,633.24,12097,403,19.0,9306.69
+2026-09-09,GR Vitamin C Serum 30 ml - Search,381.59,11964,416,20.2,11008.8
+2026-09-10,GR Vitamin C Serum 30 ml - Search,510.51,12811,367,19.6,10367.88
+2026-09-11,GR Vitamin C Serum 30 ml - Search,404.68,17741,604,27.1,11962.0
+2026-09-12,GR Vitamin C Serum 30 ml - Search,476.11,14219,411,14.4,6402.73
+2026-09-13,GR Vitamin C Serum 30 ml - Search,314.96,11665,413,15.6,7293.63
+2026-09-14,GR Vitamin C Serum 30 ml - Search,456.1,12853,446,24.8,11060.17
+2026-09-15,GR Vitamin C Serum 30 ml - Search,449.25,15259,526,12.1,6247.11
+2026-09-16,GR Vitamin C Serum 30 ml - Search,438.4,11124,341,13.8,6347.37
+2026-09-17,GR Vitamin C Serum 30 ml - Search,474.15,10035,359,10.4,6400.01
+2026-09-18,GR Vitamin C Serum 30 ml - Search,413.26,6010,166,5.8,2940.39
+2026-09-19,GR Vitamin C Serum 30 ml - Search,410.66,11105,349,16.2,8891.13
+2026-09-20,GR Vitamin C Serum 30 ml - Search,440.45,11812,426,13.8,9628.96
+2026-09-21,GR Vitamin C Serum 30 ml - Search,449.98,13430,426,20.2,11314.1
